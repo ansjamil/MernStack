@@ -24,4 +24,4 @@ jobs:
 
       - name: Run Postman tests
         run: |
-          newman run "postman/Contact Manager API.postman_collection.json" -e "postman/env.local.json"
+          newman run "postman/contact-manager-api.postman_collection.json" -e "postman/env.local.json"
