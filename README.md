@@ -38,13 +38,4 @@ Ensure that your environment and servers are running or mocked properly in CI co
 
 If MongoDB or backend isn't available in the CI environment, GitHub Actions will show failures (e.g., request url is empty).
 
-Let me know if you want me to include a GitHub Actions YAML explanation too.
 
-
-
-
-
-
-
-
-Ask ChatGPT
